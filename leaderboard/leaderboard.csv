@@ -1,2 +1,1 @@
 username,timestamp_utc,team,run_id,type,model,macro_f1,accuracy,precision,recall
-randomuser1194,2026-05-11 13:21:31 UTC,DeepSeek-R1,_run_id,llm-only,DeepSeek,0.425305,0.466238,0.198083,0.433566
