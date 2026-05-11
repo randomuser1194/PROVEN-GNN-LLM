@@ -1,0 +1,7 @@
+{
+    "team": "DeepSeek-R1",
+    "run_id": "_run_id",
+    "type": "llm-only",
+    "model": "DeepSeek",
+    "notes": "Additional notes"
+}
