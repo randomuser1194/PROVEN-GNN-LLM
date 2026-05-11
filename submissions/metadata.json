@@ -1,5 +1,5 @@
 {
-    "team": "DeepSeek-R1",
+    "team": "DeepSeek-V4",
     "run_id": "_run_id",
     "type": "llm-only",
     "model": "DeepSeek",
