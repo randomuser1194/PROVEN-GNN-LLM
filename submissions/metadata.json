@@ -1,7 +1,7 @@
 {
-    "team": "DeepSeek-V4",
-    "run_id": "_run_id",
-    "type": "llm-only",
-    "model": "DeepSeek",
-    "notes": "Additional notes"
+  "team": "DeepSeek-v4-pro",
+  "run_id": "run_03",
+  "type": "llm-only",
+  "model": "GINEConv",
+  "notes": "3-layer GINEConv with edge encoding, mean-pool, trained for macro F1"
 }
