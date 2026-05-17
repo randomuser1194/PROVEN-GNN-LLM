@@ -7,3 +7,4 @@
 | 4 | LLM_Gemini_25_Pro | `GATv2` | llm-only | 0.755503 | 2026-05-17 14:51:41 UTC |
 | 5 | llm_llama33_70b | `GCN` | llm-only | 0.726584 | 2026-05-17 08:00:54 UTC |
 | 6 | agent_gnn | `deterministic-no-download-gnn-prior` | llm-only | 0.502585 | 2026-05-12 22:34:56 UTC |
+| 6 | agent_gnn | `PyG GCN when parquet graph data is present` | llm-only | 0.502585 | 2026-05-17 20:24:10 UTC |
