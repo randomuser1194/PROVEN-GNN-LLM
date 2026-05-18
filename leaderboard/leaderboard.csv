@@ -5,3 +5,4 @@ RosePY,2026-05-17 08:00:54 UTC,llm_llama33_70b,1,llm-only,GCN,0.726584,0.79582,0
 Murad-Hossen,2026-05-17 14:51:41 UTC,LLM_Gemini_25_Pro,run_gemini_25_pro,llm-only,GATv2,0.755503,0.861736,0.913043,0.440559
 faranbutt,2026-05-17 16:45:58 UTC,Gemini-3-Flash,run_01,llm-only,Graph Attention Network (GAT),0.810932,0.869775,0.734848,0.678322
 Mounia-z,2026-05-17 20:24:10 UTC,gpt5.4_codex,readme_recommended_gnn_v1,llm-only,PyG GCN when parquet graph data is present,0.502585,0.622186,0.235632,0.286713
+mubbytheback,2026-05-18 02:34:18 UTC,proven_gnn_solution,run_001,human+llm,GIN,0.484451,0.598071,0.213904,0.27972
