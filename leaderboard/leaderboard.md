@@ -8,3 +8,4 @@
 | 5 | llm_llama33_70b | `GCN` | llm-only | 0.726584 | 2026-05-17 08:00:54 UTC |
 | 6 | gpt5.4_codex | `PyG GCN when parquet graph data is present` | llm-only | 0.502585 | 2026-05-17 20:24:10 UTC |
 | 7 | proven_gnn_solution | `GIN` | human+llm | 0.484451 | 2026-05-18 02:34:18 UTC |
+| 7 | Kimi K2.6 | `GIN` | llm-only | 0.484451 | 2026-05-18 02:50:29 UTC |
