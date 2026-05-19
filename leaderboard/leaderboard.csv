@@ -7,4 +7,4 @@ faranbutt,2026-05-17 16:45:58 UTC,Gemini-3-Flash,run_01,llm-only,Graph Attention
 Mounia-z,2026-05-17 20:24:10 UTC,gpt5.4_codex,readme_recommended_gnn_v1,llm-only,PyG GCN when parquet graph data is present,0.502585,0.622186,0.235632,0.286713
 mubbytheback,2026-05-18 02:34:18 UTC,proven_gnn_solution,run_001,human+llm,GIN,0.484451,0.598071,0.213904,0.27972
 mubbytheback,2026-05-18 02:50:29 UTC,Kimi K2.6,run_001,llm-only,GIN,0.484451,0.598071,0.213904,0.27972
-randomuser1194,2026-05-19 09:36:02 UTC,claude_opus_4_6,04,llm-only,-,0.853703,0.893891,0.751634,0.804196
+randomuser1194,2026-05-19 09:36:02 UTC,claude_opus_4_6,04,llm-only,GCN,0.853703,0.893891,0.751634,0.804196
