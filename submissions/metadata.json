@@ -1,7 +1,7 @@
 {
-  "team": "DeepSeek-v4-pro",
-  "run_id": "run_03",
+  "team": "claude_opus_4_6",
+  "run_id": "04",
   "type": "llm-only",
-  "model": "GINEConv",
-  "notes": "3-layer GINEConv with edge encoding, mean-pool, trained for macro F1"
+  "model": "-",
+  "notes": "-"
 }
